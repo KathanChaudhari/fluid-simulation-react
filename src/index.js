@@ -1,4 +1,4 @@
 // index.js in your fluid-simulation-react library
-import MyFluidAnimationComponent from './App';
+import FluidSimulation from './App';
 
-export default MyFluidAnimationComponent;
+export default FluidSimulation;

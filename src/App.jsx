@@ -2,12 +2,14 @@
 import React from 'react';
 import FluidAnimation, { defaultConfig } from './fluid-animation';
 
-const MyFluidAnimationComponent = () => {
+
+const FluidSimulation = ({ config = {} }) => {
+  const mergedConfig = {...defaultConfig, ...config};
   return (
     <div style={{ width: '100%', height: '100%' }}>
-      <FluidAnimation config={defaultConfig} />
+      <FluidAnimation opts={{ config: mergedConfig }} />
     </div>
   );
 };
 
-export default MyFluidAnimationComponent;
+export default FluidSimulation;

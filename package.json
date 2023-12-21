@@ -1,6 +1,6 @@
 {
   "name": "fluid-simulation-react",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A captivating React library using WebGL for animated, multi-colored fluid effects. React to cursor movements or touch with stunning, fluid-like animations. Ideal for adding dynamic, visually engaging elements to your application. It's an effortlessly integratable and customizable way to enrich your user interface with interactive, fluid beauty.",
   "main": "dist/index.js",
   "scripts": {
@@ -41,5 +41,9 @@
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KathanChaudhari/fluid-simulation-react.git"
   }
 }
