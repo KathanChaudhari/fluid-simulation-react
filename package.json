@@ -1,7 +1,7 @@
 {
   "name": "fluid-simulation-react",
-  "version": "1.0.4",
-  "description": "A captivating React library using WebGL for animated, multi-colored fluid effects. React to cursor movements or touch with stunning, fluid-like animations. Ideal for adding dynamic, visually engaging elements to your application. It's an effortlessly integratable and customizable way to enrich your user interface with interactive, fluid beauty.",
+  "version": "1.0.5",
+  "description": "A React library which shows multi-colored fluid effects on cursor movements. On cursor movements or touch you can make smoke like effects. Ideal for adding dynamic, visually engaging elements to application. ",
   "main": "dist/index.js",
   "scripts": {
     "start": "webpack serve --mode development",
