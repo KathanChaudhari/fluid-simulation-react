@@ -94,6 +94,6 @@ For a better understanding of the component or if you wish to contribute, please
 
 [fluid-simulation-react](https://github.com/KathanChaudhari/fluid-simulation-react) on GitHub.
 
-ping me on discord: kiyo07
+ping me on discord: kathan2651
 
 Thanks for Trying this(Or atleast for reading, do try it out share me where do I need to imporve).
